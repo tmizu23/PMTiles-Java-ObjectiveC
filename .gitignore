@@ -1,3 +1,2 @@
 *.class
-output
-output_image.png
+output*
